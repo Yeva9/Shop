@@ -1,2 +1,2 @@
-# Shop-
+# Shop
 Shop Console
