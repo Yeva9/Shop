@@ -1,7 +1,0 @@
-D:\VISUALAPPC#\ShopConsole\Shop\bin\Debug\Shop.exe.config
-D:\VISUALAPPC#\ShopConsole\Shop\bin\Debug\Shop.exe
-D:\VISUALAPPC#\ShopConsole\Shop\bin\Debug\Shop.pdb
-D:\VISUALAPPC#\ShopConsole\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
-D:\VISUALAPPC#\ShopConsole\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
-D:\VISUALAPPC#\ShopConsole\Shop\obj\Debug\Shop.exe
-D:\VISUALAPPC#\ShopConsole\Shop\obj\Debug\Shop.pdb
